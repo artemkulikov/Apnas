@@ -547,6 +547,7 @@ main .line {
 
 .info__wrapp .info.desk .info__item .item__txt {
   font-size: 24px;
+  
   color: #066140;
   width: 80%;
 }
@@ -554,6 +555,7 @@ main .line {
 .info__wrapp .info.desk .info__item .item__txt span {
   font-family: "AvenirNext-DemiBold";
   font-size: 22px;
+  
 }
 
 .info__wrapp .order__btn {
@@ -777,7 +779,7 @@ main .line {
   -webkit-align-items: center;
       -ms-flex-align: center;
           align-items: center;
-  width: 20%;
+  width: 30%;
 }
 
 .section__wrapper .items__wrapp .item svg {
@@ -816,7 +818,6 @@ main .line {
   color: #0a0a0d;
   font-size: calc( 0.70rem + 5 * (100vw - 300px) / (960 - 350) );
   line-height: calc( 106% + 1vw - 4px );
-
   width: 75%;
   padding: 20px 0;
   font-family: "AvenirNextCyr-Regular";
