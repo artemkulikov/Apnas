@@ -110,6 +110,10 @@
   border: 1px solid #fff;
 }
 
+.lang__btn .dropdown .dropbtn::after{
+  content: ' ▼';
+}
+
 .lang__btn .dropdown .dropdown-content {
   display: none;
   position: absolute;
